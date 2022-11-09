@@ -4,3 +4,5 @@
 
 If you encounter an error or if you have any questions, please open an issue.
 
+See CONTRIBUTING.md to learn how to contribute to this project.
+
